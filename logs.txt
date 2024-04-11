@@ -1,0 +1,30 @@
+PS C:\Users\PC\OneDrive\Desktop\Faks\4 semestar\SI\SI_2024_lab1_225088> git log
+commit 7a28b7bb6f2aac3a5f3ebe54a2b2c148bd1c6936 (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: Ma4ez <marijazahar@gmail.com>
+Date:   Thu Apr 11 20:19:42 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 1035f1b127db9d628fc886b23bd773e1b7ffee64 (origin/bug1, bug1)
+Author: Ma4ez <marijazahar@gmail.com>
+Date:   Thu Apr 11 20:21:15 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit b395acd20a6cfe7629765afad398fec47e3684f2
+Author: Ma4ez <marijazahar@gmail.com>
+Date:   Thu Apr 11 20:18:45 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 3b52625d4a228ca7572b825b160f35c4ec928361
+Author: Ma4ez <marijazahar@gmail.com>
+Date:   Thu Apr 11 20:16:17 2024 +0200
+
+    Add starter code
+
+commit 62ad701d4f453dd379b4b256217f8ce7bc68a360
+Author: Ma4ez <marijazahar@gmail.com>
+Date:   Thu Apr 11 20:10:45 2024 +0200
+
+    Initial commit
